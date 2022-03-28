@@ -4,7 +4,7 @@ import os
 
 app = flask.Flask(__name__)
 
-MY_API_SECRET_KEY = "x95xd2dbxc3x175md5"
+MY_API_SECRET_KEY = "Q1LPShkurJAv9EolkfqVOBl9lAx4gWs8"
 
 BASE_URL = "https://api.nytimes.com/svc/search/v2/articlesearch.json"
 
